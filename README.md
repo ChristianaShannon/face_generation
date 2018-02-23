@@ -28,6 +28,12 @@
 
     * Anaconda3 Python3.6
     
+### 3. 数据来源 ###
+	
+MNIST: [MNIST](http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz)
+
+Celeba: [Celeba](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/celeba.zip)
+
        
 ### 项目运行 ###
     
